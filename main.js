@@ -1,3 +1,5 @@
+function clear() { console.clear(); }
+
 clear();
 function Welcome() {
   alert("Cookie Clicker Hack\n\nMade By: DawnDevx");
